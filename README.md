@@ -7,8 +7,8 @@ DrGreen is a full-stack web application that allows users to upload images of pl
 ## 📸 Project Preview
 
 <!-- 👉 Replace with actual image paths -->
-![Homepage Screenshot](screenshots/Screenshot 2025-06-29 163005.png)
-![Prediction Result](screenshots/Screenshot 2025-06-29 163535.png)
+![Homepage Screenshot](screenshots/Screenshot%202025-06-29%20163005.png)
+![Prediction Result](screenshots/Screenshot%202025-06-29%20163535.png)
 
 ---
 
