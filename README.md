@@ -133,8 +133,7 @@ DrGreen-Plant-Disease-Detection/
 
 - Add user login and dashboard
 - Improve ML model accuracy
-- Support multi-plant detection
-- Add disease treatment suggestions
+- Support more plants for detection
 
 ---
 
